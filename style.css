@@ -15,6 +15,7 @@
       background: #F0F0F3;
    }
    
+   button:focus { outline: nome; }
    
    .main-section {
      max-width: 400px;
